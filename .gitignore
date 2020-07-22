@@ -5,7 +5,7 @@
 example
 exampleinputdata
 
-WindowsInstaller/ArcpySSLMFP_setup.exe
+WindowsInstaller/*.exe
 
 *.xml
 CreateInstallPackage.md
