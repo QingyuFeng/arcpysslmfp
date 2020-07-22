@@ -5,6 +5,7 @@
 example
 exampleinputdata
 
+WindowsInstaller/ArcpySSLMFP_setup.exe
 
 *.xml
 CreateInstallPackage.md
@@ -12,4 +13,3 @@ InstallationSource
 extradependencies
 Logo.pptx
 
-WindowsInstaller/ArcpySSLMFP_setup.exe
