@@ -3,9 +3,8 @@
 
 
 example
-exampleinput
+exampleinputdata
 
-WindowsInstaller
 *.xml
 CreateInstallPackage.md
 InstallationSource
